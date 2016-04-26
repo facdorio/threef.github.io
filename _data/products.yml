@@ -1,0 +1,17 @@
+- name: the Shirt One
+  price: 29.99
+  slug: the-shirt-one
+  sku: TLS
+  image: http://www.unixstickers.com/image/data/t-shirt/javascript/javascript%20t-shirt%20detail%203.jpg
+
+- name: Camisa 3
+  price: 20.99
+  slug: the-shirt-two
+  sku: TST
+  image: http://www.unixstickers.com/image/data/t-shirt/javascript/javascript%20t-shirt%20detail%203.jpg
+
+- name: Camisa 3
+  price: 39.99
+  slug: the-shirt-tree
+  sku: SW
+  image: http://www.unixstickers.com/image/data/t-shirt/javascript/javascript%20t-shirt%20detail%203.jpg
